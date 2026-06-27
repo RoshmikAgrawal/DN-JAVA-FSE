@@ -1,5 +1,3 @@
--- Exercise 1: Control Structures
-
 -- Scenario 1: 1% discount on loan interest for customers above 60
 DECLARE
     CURSOR c_customers IS
