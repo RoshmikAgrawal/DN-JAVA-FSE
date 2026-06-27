@@ -1,5 +1,3 @@
--- Exercise 3: Stored Procedures
-
 CREATE OR REPLACE PROCEDURE ProcessMonthlyInterest IS
 BEGIN
     UPDATE Accounts
