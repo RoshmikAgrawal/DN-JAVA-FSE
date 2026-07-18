@@ -1,0 +1,22 @@
+/* Styling layout rules matching the manual specification metrics[cite: 4] */
+.Name {
+    font-weight: 300;
+    color: blue;
+}
+
+.School {
+    color: crimson;
+}
+
+.Total {
+    color: darkmagenta;
+}
+
+.formatstyle {
+    text-align: center;
+    font-size: large;
+}
+
+.Score {
+    color: forestgreen;
+}
