@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/DN - Java FSE Mandatory hands-on/week 1/TDD using JUnit5 and Mockito/pom.xml" />
+        <option value="$PROJECT_DIR$/DN - Java FSE Mandatory hands-on/week 2/Spring Core and Maven - LibraryManagement/pom.xml" />
+        <option value="$PROJECT_DIR$/DN - Java FSE Mandatory hands-on/week 1/TDD and Logging framework/pom.xml" />
+        <option value="$PROJECT_DIR$/DN - Java FSE Mandatory hands-on/week 3/Spring REST using Spring Boot 3/spring-learn/pom.xml" />
+        <option value="$PROJECT_DIR$/DN - Java FSE Mandatory hands-on/week 4/Microservices with Spring Boot 3 and Spring Cloud/account/pom.xml" />
+        <option value="$PROJECT_DIR$/DN - Java FSE Mandatory hands-on/week 4/Microservices with Spring Boot 3 and Spring Cloud/loan/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="openjdk-26" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

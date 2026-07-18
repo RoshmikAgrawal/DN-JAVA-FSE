@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DN-JAVA-FSE.iml" filepath="$PROJECT_DIR$/DN-JAVA-FSE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DN - Java FSE Mandatory hands-on/week 3/Spring REST using Spring Boot 3/spring-learn/spring-learn.iml" filepath="$PROJECT_DIR$/DN - Java FSE Mandatory hands-on/week 3/Spring REST using Spring Boot 3/spring-learn/spring-learn.iml" />
+    </modules>
+  </component>
+</project>
