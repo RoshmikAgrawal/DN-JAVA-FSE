@@ -1,8 +1,9 @@
+//exercise 3
 import React from 'react';
 import { CalculateScore } from './Components/CalculateScore';
 
 /**
- * Main application dashboard wrapper seeding operational prop parameters[cite: 4].
+ * Main application dashboard wrapper seeding operational prop parameters
  */
 function App() {
   return (

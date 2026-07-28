@@ -1,0 +1,24 @@
+/* Color style definitions mapping precisely to the verification logic strings */
+.textRed {
+  color: red;
+  font-weight: bold;
+}
+
+.textGreen {
+  color: green;
+  font-weight: bold;
+}
+
+/* Base presentation layout wrapper for centering content on the DOM */
+.container {
+  padding: 40px;
+  font-family: sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Image formatting rule matching design proportions */
+.office-img {
+  margin-bottom: 20px;
+  border-radius: 4px;
+}
