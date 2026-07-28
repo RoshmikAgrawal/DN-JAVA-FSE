@@ -1,0 +1,12 @@
+# IntelliJ internal configuration files
+.idea/
+*.iml
+
+# Compiled Java build outputs
+out/
+target/
+*.class
+
+# Operating system files
+.DS_Store
+Thumbs.db
